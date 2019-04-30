@@ -2,4 +2,4 @@
 a project to collaboratively bash us...
 
 ## A Subheading
-Florian
+Florian Tobias Müller Carolin Malsch
