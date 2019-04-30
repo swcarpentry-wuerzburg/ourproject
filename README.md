@@ -2,5 +2,4 @@
 a project to collaboratively bash us...
 
 ## A Subheading
-Tobias Müller Carolin Malsch Jan
-
+Jonas, Tobias Müller, Carolin Malsch, CoraRvC, Jan
