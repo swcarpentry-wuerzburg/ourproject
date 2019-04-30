@@ -4,8 +4,11 @@ WARNING: Adult content (must be 18 years old)
 a project to collaboratively bash us...
 
 ## A Subheading
-Maximilian Breyer, Florian Carolin Malsch, Jonas, Tobias Müller, Carolin Malsch, CoraRvC Tobias Müller, Michael Dettbarn, 
-Jan, Noah, Konrad Knöpper, Lukas
+<<<<<<< HEAD
+
+Maximilian Breyer, SarahDenk Florian Carolin Malsch, Jonas, Tobias Müller, Carolin Malsch, CoraRvC Tobias 
+Müller, Michael Dettbarn, 
+Jan, Noah, Konrad Knöpper, Lukas, Giulia, Martin 
 
 ## Rickrolled
 
