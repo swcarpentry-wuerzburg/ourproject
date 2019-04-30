@@ -1,4 +1,4 @@
-WARNING: Adult content
+WARNING: Adult content (must be 18 years old)
 
 # ourproject
 a project to collaboratively bash us...
