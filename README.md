@@ -2,7 +2,8 @@
 a project to collaboratively bash us...
 
 ## A Subheading
-<<<<<<< HEAD
-
-CoraRvC Tobias Müller, Michael Dettbarn, Carolin Malsch, Jonas, Jan, 
-Giulia Manoli
+Tobias Müller
+Konrad Knöpper 
+Carolin Malsch
+Jonas, Tobias Müller, Carolin Malsch, CoraRvC, CoraRvC Tobias Müller, 
+Michael, Giulia
