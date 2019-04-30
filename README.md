@@ -2,4 +2,4 @@
 a project to collaboratively bash us...
 
 ## A Subheading
-Carolin Malsch Lukas Jonas Tobias Müller
+CoraRvC Tobias Müller, Michael Dettbarn, Carolin Malsch, Jonas, Lukas
