@@ -7,7 +7,7 @@ a project to collaboratively bash us...
 
 SarahDenk Florian Carolin Malsch, Jonas, Tobias Müller, Carolin Malsch, CoraRvC Tobias 
 Müller, Michael Dettbarn, 
-Jan, Noah, Konrad Knöpper, Lukas, Giulia 
+Jan, Noah, Konrad Knöpper, Lukas, Giulia, Martin 
 
 ## Rickrolled
 
