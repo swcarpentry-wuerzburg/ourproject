@@ -3,4 +3,4 @@ a project to collaboratively bash us...
 
 ## A Subheading
 
-Tobias Müller
+Tobias Müller Carolin Malsch
