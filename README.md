@@ -2,6 +2,4 @@
 a project to collaboratively bash us...
 
 ## A Subheading
-
-Tobias Müller
-Sarah Denk
+CoraRvC Tobias Müller SarahDenk
