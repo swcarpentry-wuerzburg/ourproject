@@ -3,4 +3,4 @@ a project to collaboratively bash us...
 
 ## A Subheading
 
-Tobias Müller, Giulia Manoli
+Jonas, Tobias Müller, Carolin Malsch, CoraRvC, Giulia Manoli
