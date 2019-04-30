@@ -5,8 +5,9 @@ a project to collaboratively bash us...
 
 ## A Subheading
 
-Florian Carolin Malsch, Jonas, Tobias Müller, Carolin Malsch, CoraRvC Tobias Müller, Michael Dettbarn, 
-Jan, Noah, Konrad Knöpper, Lukas, Giulia
+SarahDenk Florian Carolin Malsch, Jonas, Tobias Müller, Carolin Malsch, CoraRvC Tobias 
+Müller, Michael Dettbarn, 
+Jan, Noah, Konrad Knöpper, Lukas, Giulia 
 
 ## Rickrolled
 
